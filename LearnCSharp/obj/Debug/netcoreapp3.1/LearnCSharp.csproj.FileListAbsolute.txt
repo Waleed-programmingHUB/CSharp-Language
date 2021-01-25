@@ -1,0 +1,13 @@
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\bin\Debug\netcoreapp3.1\LearnCSharp.exe
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\bin\Debug\netcoreapp3.1\LearnCSharp.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\bin\Debug\netcoreapp3.1\LearnCSharp.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\bin\Debug\netcoreapp3.1\LearnCSharp.runtimeconfig.dev.json
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\bin\Debug\netcoreapp3.1\LearnCSharp.dll
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\bin\Debug\netcoreapp3.1\LearnCSharp.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\obj\Debug\netcoreapp3.1\LearnCSharp.csprojAssemblyReference.cache
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\obj\Debug\netcoreapp3.1\LearnCSharp.AssemblyInfoInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\obj\Debug\netcoreapp3.1\LearnCSharp.AssemblyInfo.cs
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\obj\Debug\netcoreapp3.1\LearnCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\obj\Debug\netcoreapp3.1\LearnCSharp.dll
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\obj\Debug\netcoreapp3.1\LearnCSharp.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\LearnCSharp\obj\Debug\netcoreapp3.1\LearnCSharp.genruntimeconfig.cache

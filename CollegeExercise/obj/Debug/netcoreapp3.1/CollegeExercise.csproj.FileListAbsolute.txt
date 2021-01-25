@@ -1,0 +1,13 @@
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\netcoreapp3.1\CollegeExercise.exe
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\netcoreapp3.1\CollegeExercise.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\netcoreapp3.1\CollegeExercise.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\netcoreapp3.1\CollegeExercise.runtimeconfig.dev.json
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\netcoreapp3.1\CollegeExercise.dll
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\netcoreapp3.1\CollegeExercise.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\netcoreapp3.1\CollegeExercise.csprojAssemblyReference.cache
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\netcoreapp3.1\CollegeExercise.AssemblyInfoInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\netcoreapp3.1\CollegeExercise.AssemblyInfo.cs
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\netcoreapp3.1\CollegeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\netcoreapp3.1\CollegeExercise.dll
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\netcoreapp3.1\CollegeExercise.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\netcoreapp3.1\CollegeExercise.genruntimeconfig.cache

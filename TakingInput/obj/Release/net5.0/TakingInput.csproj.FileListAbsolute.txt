@@ -1,0 +1,16 @@
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\TakingInput.exe
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\TakingInput.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\TakingInput.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\TakingInput.runtimeconfig.dev.json
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\TakingInput.dll
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\ref\TakingInput.dll
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\TakingInput.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.csprojAssemblyReference.cache
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.AssemblyInfoInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.AssemblyInfo.cs
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.dll
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\ref\TakingInput.dll
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\obj\Release\net5.0\TakingInput.genruntimeconfig.cache

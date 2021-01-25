@@ -1,0 +1,5 @@
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\publish\TakingInput.exe
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\publish\TakingInput.dll
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\publish\TakingInput.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\publish\TakingInput.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\TakingInput\bin\Release\net5.0\publish\TakingInput.pdb

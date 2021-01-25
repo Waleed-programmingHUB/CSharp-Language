@@ -1,0 +1,16 @@
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\net5.0\CollegeExercise.exe
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\net5.0\CollegeExercise.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\net5.0\CollegeExercise.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\net5.0\CollegeExercise.runtimeconfig.dev.json
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\net5.0\CollegeExercise.dll
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\net5.0\ref\CollegeExercise.dll
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\bin\Debug\net5.0\CollegeExercise.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.csprojAssemblyReference.cache
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.AssemblyInfoInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.AssemblyInfo.cs
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.dll
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\ref\CollegeExercise.dll
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\CollegeExercise\obj\Debug\net5.0\CollegeExercise.genruntimeconfig.cache
