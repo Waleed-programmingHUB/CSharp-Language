@@ -1,0 +1,16 @@
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\win-x64\HumanIzerLib.exe
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\win-x64\HumanIzerLib.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\win-x64\HumanIzerLib.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\win-x64\HumanIzerLib.runtimeconfig.dev.json
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\win-x64\HumanIzerLib.dll
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\win-x64\HumanIzerLib.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\win-x64\Humanizer.dll
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.Form1.resources
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.csproj.GenerateResource.cache
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.AssemblyInfoInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.AssemblyInfo.cs
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.csproj.CopyComplete
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.dll
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\obj\Release\netcoreapp3.1\win-x64\HumanIzerLib.genruntimeconfig.cache

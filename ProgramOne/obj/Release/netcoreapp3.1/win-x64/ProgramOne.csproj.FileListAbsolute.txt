@@ -1,0 +1,12 @@
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\win-x64\ProgramOne.exe
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\win-x64\ProgramOne.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\win-x64\ProgramOne.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\win-x64\ProgramOne.runtimeconfig.dev.json
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\win-x64\ProgramOne.dll
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\win-x64\ProgramOne.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\obj\Release\netcoreapp3.1\win-x64\ProgramOne.AssemblyInfoInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\obj\Release\netcoreapp3.1\win-x64\ProgramOne.AssemblyInfo.cs
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\obj\Release\netcoreapp3.1\win-x64\ProgramOne.csproj.CoreCompileInputs.cache
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\obj\Release\netcoreapp3.1\win-x64\ProgramOne.dll
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\obj\Release\netcoreapp3.1\win-x64\ProgramOne.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\obj\Release\netcoreapp3.1\win-x64\ProgramOne.genruntimeconfig.cache

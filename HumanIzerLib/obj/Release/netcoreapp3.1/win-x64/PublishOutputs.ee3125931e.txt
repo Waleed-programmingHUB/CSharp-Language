@@ -1,0 +1,6 @@
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\v1.0.0.1\HumanIzerLib.exe
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\v1.0.0.1\HumanIzerLib.dll
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\v1.0.0.1\HumanIzerLib.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\v1.0.0.1\HumanIzerLib.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\v1.0.0.1\HumanIzerLib.pdb
+C:\Users\Waleed\Desktop\CSharp-Language\HumanIzerLib\bin\Release\netcoreapp3.1\v1.0.0.1\Humanizer.dll

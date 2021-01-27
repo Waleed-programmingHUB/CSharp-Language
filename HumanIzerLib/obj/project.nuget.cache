@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3IqdIuHoE43E235mTCXhuB99iXSLgwGzkItJd/yXI+f1xzgXmsxP7wzn/5GSXmFIH8BmjuniiETYKXuIUp00g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Waleed\\Desktop\\CSharp-Language\\HumanIzerLib\\HumanIzerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Waleed\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}

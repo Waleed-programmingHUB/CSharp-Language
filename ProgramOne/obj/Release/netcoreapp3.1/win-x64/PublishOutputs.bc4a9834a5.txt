@@ -1,0 +1,5 @@
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\publish\ProgramOne.exe
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\publish\ProgramOne.dll
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\publish\ProgramOne.deps.json
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\publish\ProgramOne.runtimeconfig.json
+C:\Users\Waleed\Desktop\CSharp-Language\ProgramOne\bin\Release\netcoreapp3.1\publish\ProgramOne.pdb
